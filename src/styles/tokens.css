@@ -1,0 +1,30 @@
+:root {
+  --paper: #f4f7f5;
+  --surface: #ffffff;
+  --ink: #13231d;
+  --ink-soft: #52655e;
+  --line: #d9e3de;
+  --green: #0b5d46;
+  --green-deep: #083f31;
+  --green-tint: #e2f0ea;
+  --amber: #a86a05;
+  --amber-seat: #e0a526;
+  --amber-tint: #fcf0d4;
+  --red: #b3261e;
+  --red-tint: #fbe9e7;
+  --grey-tint: #ebefed;
+
+  --font-body: 'Hind Siliguri', 'Noto Sans Bengali', system-ui, sans-serif;
+  --font-display: 'Noto Serif Bengali', 'Hind Siliguri', Georgia, serif;
+
+  --step--1: 0.875rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.65rem;
+  --step-3: 2.2rem;
+  --step-4: 3.2rem;
+
+  --radius: 6px;
+  --radius-lg: 12px;
+  --shadow: 0 1px 2px rgba(19, 35, 29, 0.06), 0 6px 18px rgba(19, 35, 29, 0.05);
+}
